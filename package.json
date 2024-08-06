@@ -1,5 +1,5 @@
 {
-  "name": "js-big-decimal",
+  "name": "@sword-of-grayskull/js-big-decimal",
   "version": "2.0.8",
   "description": "Work with large numbers on the client side. Round them off to any required precision.",
   "main": "dist/node/js-big-decimal",
